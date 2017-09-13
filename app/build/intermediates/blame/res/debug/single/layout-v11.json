@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v11/notification_media_action.xml"
+    }
+]

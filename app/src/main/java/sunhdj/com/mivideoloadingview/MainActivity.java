@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        MiVideoLoadingView v1i = (MiVideoLoadingView) this.findViewById(R.id.v1i);
-        v1i.startTranglesAnimation();
+        WaveLoadingView v1i = (WaveLoadingView) this.findViewById(R.id.v1i);
+        v1i.startLinesAnimation();
     }
 }

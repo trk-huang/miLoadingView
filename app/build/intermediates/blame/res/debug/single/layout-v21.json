@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/layout-v21/notification_action.xml"
+    }
+]

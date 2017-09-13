@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:2:11-50
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/huangdaju/.android/build-cache/8683bdedf65ea7c0276a925e3885e13c5e3eec90/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/huangdaju/.android/build-cache/f7f636a12e076b88d6ef5d77a91512d42567939b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/huangdaju/.android/build-cache/80869f8e376128da5dbae4ff81bd3de87b02f510/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/huangdaju/.android/build-cache/0c0f3a391e62332d8ea6905e1173b24a889c493b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/huangdaju/.android/build-cache/94da0a3c4c9f3c78b9cdecdec000e0c15b82ae3e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/c532e3b5da7fd4981cd596c29e07cab9b4dbc319/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/736cd6aeec24d58afe2467a4be19ae89862e7dfe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/huangdaju/.android/build-cache/c0f2d719191fb036df76f6dfc309b48d2afeb2e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /Users/huangdaju/.android/build-cache/1bcfb0737e73edf624e816b0c414a367fa882296/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:11:9-40
+activity#sunhdj.com.mivideoloadingview.MainActivity
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/huangdaju/.android/build-cache/8683bdedf65ea7c0276a925e3885e13c5e3eec90/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/huangdaju/.android/build-cache/f7f636a12e076b88d6ef5d77a91512d42567939b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/huangdaju/.android/build-cache/80869f8e376128da5dbae4ff81bd3de87b02f510/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/huangdaju/.android/build-cache/0c0f3a391e62332d8ea6905e1173b24a889c493b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/huangdaju/.android/build-cache/94da0a3c4c9f3c78b9cdecdec000e0c15b82ae3e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/c532e3b5da7fd4981cd596c29e07cab9b4dbc319/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/736cd6aeec24d58afe2467a4be19ae89862e7dfe/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/huangdaju/.android/build-cache/c0f2d719191fb036df76f6dfc309b48d2afeb2e1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /Users/huangdaju/.android/build-cache/1bcfb0737e73edf624e816b0c414a367fa882296/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/huangdaju/.android/build-cache/8683bdedf65ea7c0276a925e3885e13c5e3eec90/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/huangdaju/.android/build-cache/f7f636a12e076b88d6ef5d77a91512d42567939b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/huangdaju/.android/build-cache/80869f8e376128da5dbae4ff81bd3de87b02f510/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/huangdaju/.android/build-cache/0c0f3a391e62332d8ea6905e1173b24a889c493b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/huangdaju/.android/build-cache/94da0a3c4c9f3c78b9cdecdec000e0c15b82ae3e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/c532e3b5da7fd4981cd596c29e07cab9b4dbc319/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/huangdaju/.android/build-cache/736cd6aeec24d58afe2467a4be19ae89862e7dfe/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/huangdaju/.android/build-cache/c0f2d719191fb036df76f6dfc309b48d2afeb2e1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/huangdaju/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0_636d2084eea26363e431140719287521cf1111eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/huangdaju/.android/build-cache/1bcfb0737e73edf624e816b0c414a367fa882296/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/pre-dexed/debug/classes_3caddea8331643082883eed3b387a7c8068eab54.jar" />
+    </item>
+
+</items>

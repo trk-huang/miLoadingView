@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huangdaju/Documents/AndroidApplications/miLoadingView/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/huangdaju/.android/build-cache/0e53483c519cc3146e06d184400f9ea43b664c6c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

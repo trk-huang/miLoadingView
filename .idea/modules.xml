@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MiVideoLoadingView.iml" filepath="$PROJECT_DIR$/MiVideoLoadingView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miLoadingView.iml" filepath="$PROJECT_DIR$/miLoadingView.iml" />
     </modules>
   </component>
 </project>
